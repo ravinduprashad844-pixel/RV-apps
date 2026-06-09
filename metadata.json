@@ -1,0 +1,8 @@
+{
+  "name": "Sales Coaching Intelligence",
+  "description": "An AI-powered sales coaching platform that transcribes sales recordings, provides a diarized speaker transcript, visualizes engagement and sentiment slopes, and outputs dynamic coaching advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
